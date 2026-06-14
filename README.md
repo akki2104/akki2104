@@ -156,7 +156,7 @@ Ideas are worthless without execution. Built and deployed features in healthcare
 
 **Tech Stack:** Python • LangGraph • FastAPI • Streamlit • LangChain • Anthropic Claude API
 
-🔗 [Live Demo](https://code-audit-ui.onrender.com/) | [GitHub Repository](https://github.com/akki2104/AgentAudit)
+🔗 [Live Demo](https://code-audit-ui.onrender.com/) | [GitHub Repository](https://github.com/akki2104/ai-code-audit-system)
 
 ---
 
