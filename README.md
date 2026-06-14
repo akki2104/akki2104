@@ -10,6 +10,8 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-650%2B-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/red_susano02104/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashydv2104@gmail.com)
 
+![Profile Views](https://komarev.com/ghpvc/?username=akki2104&style=flat-square&color=blue)
+
 </div>
 
 ---
@@ -321,7 +323,5 @@ Relevant Coursework: Operating Systems, OOP, Data Structures & Algorithms, DBMS,
 <div align="center">
 
 **"Building systems that scale. Solving problems that matter. Shipping with confidence."**
-
-![Profile Views](https://komarev.com/ghpvc/?username=akki2104&style=flat-square&color=blue)
 
 </div>
